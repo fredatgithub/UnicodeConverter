@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeConverter", "UnicodeConverter\UnicodeConverter.csproj", "{78B6EDB2-AEE6-4BE2-BA8E-7C03D252B836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeEncodingExample", "UnicodeEncodingExample\UnicodeEncodingExample.csproj", "{284172D3-5660-4B8E-A9FA-2C56525F7EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingInfodisplay", "EnocdingInfodisplay\EncodingInfodisplay.csproj", "{DEDF362E-71FA-4CA3-9D56-79B7ADD3A636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingConverter", "EncodingConverter\EncodingConverter.csproj", "{7D17F815-FD07-45C0-8B2C-159CA01D4A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B6EDB2-AEE6-4BE2-BA8E-7C03D252B836}.Debug|x86.ActiveCfg = Debug|x86
+		{78B6EDB2-AEE6-4BE2-BA8E-7C03D252B836}.Debug|x86.Build.0 = Debug|x86
+		{78B6EDB2-AEE6-4BE2-BA8E-7C03D252B836}.Release|x86.ActiveCfg = Release|x86
+		{78B6EDB2-AEE6-4BE2-BA8E-7C03D252B836}.Release|x86.Build.0 = Release|x86
+		{284172D3-5660-4B8E-A9FA-2C56525F7EC7}.Debug|x86.ActiveCfg = Debug|x86
+		{284172D3-5660-4B8E-A9FA-2C56525F7EC7}.Debug|x86.Build.0 = Debug|x86
+		{284172D3-5660-4B8E-A9FA-2C56525F7EC7}.Release|x86.ActiveCfg = Release|x86
+		{284172D3-5660-4B8E-A9FA-2C56525F7EC7}.Release|x86.Build.0 = Release|x86
+		{DEDF362E-71FA-4CA3-9D56-79B7ADD3A636}.Debug|x86.ActiveCfg = Debug|x86
+		{DEDF362E-71FA-4CA3-9D56-79B7ADD3A636}.Debug|x86.Build.0 = Debug|x86
+		{DEDF362E-71FA-4CA3-9D56-79B7ADD3A636}.Release|x86.ActiveCfg = Release|x86
+		{DEDF362E-71FA-4CA3-9D56-79B7ADD3A636}.Release|x86.Build.0 = Release|x86
+		{7D17F815-FD07-45C0-8B2C-159CA01D4A25}.Debug|x86.ActiveCfg = Debug|x86
+		{7D17F815-FD07-45C0-8B2C-159CA01D4A25}.Debug|x86.Build.0 = Debug|x86
+		{7D17F815-FD07-45C0-8B2C-159CA01D4A25}.Release|x86.ActiveCfg = Release|x86
+		{7D17F815-FD07-45C0-8B2C-159CA01D4A25}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
